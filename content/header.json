@@ -1,27 +1,24 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Cuidado, aconchego e informação!",
+    "link": "",
+    "background": "#f2e9be",
+    "color": "#000000"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/armazem-das-doulas?Armazém das Doulas"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
