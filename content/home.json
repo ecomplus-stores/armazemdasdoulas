@@ -18,9 +18,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/rebozo-parto-armazem-das-doulas.jpg",
+          "alt": "Rebozo artesanal",
+          "mobile_img": "/img/uploads/rebozo-parto-armazem-das-doulas.jpg",
+          "link": "https://armazemdasdoulas.netlify.app/rebozo-artesanal-100-algodao"
         }
       ]
     },
