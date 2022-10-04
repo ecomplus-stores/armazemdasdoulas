@@ -1,25 +1,25 @@
 {
-  "store_id": 12037,
-  "name": "armazemdasdoulas",
   "domain": "armazemdasdoulas.netlify.app",
-  "short_name": "armazemdasdoulas",
-  "description": "armazemdasdoulas",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#e04f23",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/marca-d-agua-submarca.png",
+  "name": "Armazém das Doulas",
+  "short_name": "armazemdasdoulas",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/marca-d-agua-submarca.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#087f79",
+  "icon": "/img/uploads/marca-d-agua-submarca.png",
+  "store_id": 12037,
+  "description": "O Armazém das doulas é um lugar onde você poderá encontrar materiais, produtos, elementos e informações que possam tornar a sua vida e de outras pessoas para melhor.\n\nNossa missão é se tornar uma rede de apoio, de informação e bem estar para todxs que aqui passarem.",
+  "large_icon": "/img/uploads/marca-d-agua-submarca.png"
 }
