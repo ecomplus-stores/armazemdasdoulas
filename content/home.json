@@ -22,6 +22,14 @@
           "alt": "Rebozo artesanal",
           "mobile_img": "/img/uploads/rebozo-parto-armazem-das-doulas.jpg",
           "link": "https://armazemdasdoulas.netlify.app/rebozo-artesanal-100-algodao"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/mama-croche-amamentacao-armazem-das-doulas.jpg",
+          "mobile_img": "/img/uploads/mama-croche-amamentacao-armazem-das-doulas.jpg",
+          "link": "https://armazemdasdoulas.netlify.app/mama-didatica-croche-c500",
+          "alt": "Mama didática"
         }
       ]
     },
