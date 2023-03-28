@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0287f6da770c3d1fdf0386cd1b122b4c.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f8ecd1377afedf0664b4dd3db7fa965b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.3155f820ee6071089a9c45afb9f95ba3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d22bdbb691844d46d5da6cfa987e8131.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ebbbc767151d7c1def2e2b0a4a0299ef.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Armazém das Doulas",
+  "short_name": "armazemdasdoulas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "O Armazém das doulas é um lugar onde você poderá encontrar materiais, produtos, elementos e informações que possam tornar a sua vida e de outras pessoas para melhor.\n\nNossa missão é se tornar uma rede de apoio, de informação e bem estar para todxs que aqui passarem.",
+  "background_color": "#ffffff",
+  "theme_color": "#e04f23"
+}
